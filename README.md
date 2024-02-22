@@ -1,4 +1,4 @@
-# Ragban-clinic
+# Ragaban-clinic
 
 A UI/UX project that is done using figma 
 https://www.figma.com/file/4BtI038FuVkiExiCZ3z1yM/Untitled?type=design&node-id=0%3A1&mode=design&t=jO4JBHNmEUTIudDn-1
